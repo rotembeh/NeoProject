@@ -1,6 +1,7 @@
 The instructions.pdf file is for the university or for the person that wants to 
 init and run the blockchain and the registration system.
 
+
 Codes Locations:
 
 The C# code of the contract path: 
