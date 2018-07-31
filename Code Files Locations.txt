@@ -3,10 +3,10 @@ init and run the blockchain and the registration system.
 
 Codes Locations:
 
-The C# code of the contract I wrote path is: 
+The C# code of the contract path: 
 .\Csharp_Courses\NeoContract1\NeoContract1\Contract1.cs
 
-The NodeJS code of the user interface I wrote path is:
+The NodeJS code of the user interface path:
 .\Csharp_Courses\node1\mynode\server1.js
 
 The HTML files are located in directory: 
