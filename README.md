@@ -1,3 +1,3 @@
-"# NeoProject" 
-"student use: open /Csharp_Courses/node1/intro.html and follow the instructions"
-"uni use: follow /instructions.pdf"
+# NeoProject<br>
+student use: open /Csharp_Courses/node1/intro.html and follow the instructions<br>
+uni use: follow /instructions.pdf<br>
