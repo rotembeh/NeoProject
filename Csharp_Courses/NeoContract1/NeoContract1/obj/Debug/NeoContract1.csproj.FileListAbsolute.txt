@@ -1,0 +1,16 @@
+C:\NeoProject\Csharp_Courses\NeoContract1\NeoContract1\bin\Debug\NeoContract1.dll
+C:\NeoProject\Csharp_Courses\NeoContract1\NeoContract1\bin\Debug\NeoContract1.pdb
+C:\NeoProject\Csharp_Courses\NeoContract1\NeoContract1\bin\Debug\Neo.SmartContract.Framework.dll
+C:\NeoProject\Csharp_Courses\NeoContract1\NeoContract1\obj\Debug\NeoContract1.csproj.CoreCompileInputs.cache
+C:\NeoProject\Csharp_Courses\NeoContract1\NeoContract1\obj\Debug\NeoContract1.csproj.CopyComplete
+C:\NeoProject\Csharp_Courses\NeoContract1\NeoContract1\obj\Debug\NeoContract1.dll
+C:\NeoProject\Csharp_Courses\NeoContract1\NeoContract1\obj\Debug\NeoContract1.pdb
+C:\NeoProject\Csharp_Courses\NeoContract1\NeoContract1\obj\Debug\NeoContract1.csprojResolveAssemblyReference.cache
+C:\NeoProject\Final\Csharp_Courses\NeoContract1\NeoContract1\bin\Debug\NeoContract1.dll
+C:\NeoProject\Final\Csharp_Courses\NeoContract1\NeoContract1\bin\Debug\NeoContract1.pdb
+C:\NeoProject\Final\Csharp_Courses\NeoContract1\NeoContract1\bin\Debug\Neo.SmartContract.Framework.dll
+C:\NeoProject\Final\Csharp_Courses\NeoContract1\NeoContract1\obj\Debug\NeoContract1.csprojResolveAssemblyReference.cache
+C:\NeoProject\Final\Csharp_Courses\NeoContract1\NeoContract1\obj\Debug\NeoContract1.csproj.CoreCompileInputs.cache
+C:\NeoProject\Final\Csharp_Courses\NeoContract1\NeoContract1\obj\Debug\NeoContract1.csproj.CopyComplete
+C:\NeoProject\Final\Csharp_Courses\NeoContract1\NeoContract1\obj\Debug\NeoContract1.dll
+C:\NeoProject\Final\Csharp_Courses\NeoContract1\NeoContract1\obj\Debug\NeoContract1.pdb

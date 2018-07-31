@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="js/form-validation.js"></script>
+    <meta charset="UTF-8">
+    <title>Course Registration</title>
+
+    <script type="text/javascript">
+        function OnSubmitForm(x)
+        {
+            if (x==1)
+                if (validateForm(document.getElementById("ChooseOpr").value) == false)
+                    return false;
+            document.myform.action = "http://localhost:3000/"+document.getElementById("ChooseOpr").value
+            return true;
+        }
+    </script>
+
+
+</head>
+
+<iframe src="" height="450px" width="60%" name="responseFrame" align="right" id="responseFrame"></iframe>
+
+<body>
+
+<h1 style="font-size:250%;">Course Registration</h1>
+
+<form name="myform" onsubmit="return OnSubmitForm(1);" id="myform" method="post"; target="responseFrame">
+    <b><p style="font-size:150%;">Choose Operation:</p></b>
+    <select id = "ChooseOpr" onchange="OnSubmitForm(0)">
+        <option value="regReq">regReq</option>
+        <option value="CheckAvailable">CheckAvailable</option>
+        <option value="remove">Remove</option>
+        <option value="offer">Offer</option>
+        <option value="view">view ID list</option>
+        <option value="view2">view Course list (for debbuging)</option>
+     <!--   <option value="view3">view Offers list</option> -->
+        <option value="refresh">view Courses Status</option>
+
+
+    </select><br><br>
+
+    <b><p style="font-size:130%;">ID:</p></b>
+    <input type="text" name="ID" value="xxx"><br>
+    <b><p style="font-size:130%;">Which course you want ?</p></b>
+    <input type="text" name="want" value="y"><br>
+    <b><p style="font-size:130%;">Offering course (optional):</p></b>
+    <input type="text" name="offer" value=""><br>
+    <b><p style="font-size:130%;">Password:</p></b>
+    <input type="text" name="password" value="xx"><br>
+    <br>
+
+    <input type="submit" value="Send" />
+</form>
+
+<div align="center">
+<a href="https://bgu4u.bgu.ac.il/pls/scwp/!app.gate?app=ann" target="_blank"><h1 style="font-size:150%; color:green">Courses details</h1>
+</a>
+</div>
+
+</body>
+
+</html>
