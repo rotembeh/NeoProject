@@ -5,7 +5,7 @@ university or system installer: follow /instructions.pdf<br>
 instructions.pdf file is for the university or for the person that wants to 
 init and run the blockchain and the registration system.<br><br>
 
-Codes Locations:<br>
+Code Locations:<br>
 
 The C# code of the contract path: <br>
 .\Csharp_Courses\NeoContract1\NeoContract1\Contract1.cs<br><br>
