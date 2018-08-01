@@ -2,9 +2,6 @@ var formidable = require('formidable'),
     http = require('http');
     util = require('util');
 
-var sleep = require('sleep');
-var deepcopy = require('deepcopy');
-
 var conract_hash = "0x4e4d5a78ea08de7ed43c578a4eeda07fca042b4b"
 
 function notErrorResponse(str){
